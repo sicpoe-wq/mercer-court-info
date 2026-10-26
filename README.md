@@ -1,4 +1,4 @@
-# Mercer County Court Info
+# Mercer County Lockup
 
 Android app (Jetpack Compose) showing public Mercer County, PA information:
 

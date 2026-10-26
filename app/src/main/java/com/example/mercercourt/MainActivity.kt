@@ -44,7 +44,7 @@ fun App() {
     Scaffold(
         topBar = {
             Column {
-                TopAppBar(title = { Text("Mercer County Court Info") },
+                TopAppBar(title = { Text("Mercer County Lockup") },
                     colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.primary,
                         titleContentColor = androidx.compose.ui.graphics.Color.White))
                 Disclaimer()
