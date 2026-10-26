@@ -43,12 +43,9 @@ fun App() {
         "Dockets" to Icons.Default.Search, "News" to Icons.Default.Newspaper)
     Scaffold(
         topBar = {
-            Column {
-                TopAppBar(title = { Text("Mercer County Lockup") },
-                    colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.primary,
-                        titleContentColor = androidx.compose.ui.graphics.Color.White))
-                Disclaimer()
-            }
+            TopAppBar(title = { Text("Mercer County Lockup") },
+                colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.primary,
+                    titleContentColor = androidx.compose.ui.graphics.Color.White))
         },
         bottomBar = {
             NavigationBar {
@@ -61,15 +58,6 @@ fun App() {
         Box(Modifier.padding(pad).fillMaxSize()) {
             when (tab) { 0 -> JailTab(); 1 -> HearingsTab(); 2 -> DocketTab(); else -> NewsTab() }
         }
-    }
-}
-
-@Composable
-fun Disclaimer() {
-    Surface(color = androidx.compose.ui.graphics.Color(0xFFFFF4CE), modifier = Modifier.fillMaxWidth()) {
-        Text("A listing or charge is not a conviction. Data comes from public official sources and may be incomplete or out of date. " +
-            "This app does not scrape the PA UJS portal.", style = MaterialTheme.typography.labelSmall,
-            modifier = Modifier.padding(horizontal = 12.dp, vertical = 6.dp))
     }
 }
 

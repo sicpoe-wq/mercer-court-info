@@ -4,7 +4,7 @@ android {
     compileSdk = 34
     defaultConfig {
         applicationId = "com.example.mercercourt"
-        minSdk = 24; targetSdk = 34; versionCode = 4; versionName = "1.3"
+        minSdk = 24; targetSdk = 34; versionCode = 5; versionName = "1.4"
     }
     buildTypes { debug { isMinifyEnabled = false } }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }

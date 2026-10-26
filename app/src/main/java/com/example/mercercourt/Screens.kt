@@ -200,10 +200,8 @@ fun JailTab() {
             (sec == "All" || (sec == "New" && JailTracker.isNew(st, it, now)) || it.section == sec) && it.name.contains(q.trim(), true) &&
                 (stat == null || Status.of(it) == stat)
         }.sortedByDescending { JailTracker.isNew(st, it, now) }
-        Text("${list.size} of ${all.size} shown · $newCount new in last 48h · Mercer County Jail population report",
+        Text("${list.size} of ${all.size} shown · $newCount new in last 48h",
             style = MaterialTheme.typography.labelMedium, modifier = Modifier.padding(12.dp, 4.dp))
-        Text("Labels come from the jail's admission type. Sentenced = convicted and serving a sentence; it does not show the offense. Tap ⓘ for details, tap a name to look up dockets.",
-            style = MaterialTheme.typography.labelSmall, modifier = Modifier.padding(horizontal = 12.dp).clickable { legend = true })
         LazyColumn(Modifier.fillMaxSize()) {
             if (all.isNotEmpty() && st.firstSeen.values.all { it == 0L }) item {
                 Text("Tracking started. Anyone who appears on a later refresh gets a NEW badge for 48 hours.",
