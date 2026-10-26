@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+>
+
+<channel>
+	<title>WKBN.com</title>
+	<atom:link href="https://www.wkbn.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.wkbn.com</link>
+	<description>Local News, Weather and Sports in Youngstown, Ohio</description>
+	<lastBuildDate>Sun, 18 Oct 2026 04:28:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.11</generator>
+
+<image>
+	<url>https://www.wkbn.com/wp-content/uploads/sites/48/2019/06/apple-touch-icon-ipad-retina.png?w=32</url>
+	<title>WKBN.com</title>
+	<link>https://www.wkbn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">162794522</site>	<item>
+		<title>Ribbon cut on Rowan Sweeney Playround in Boardman</title>
+		<link>https://www.wkbn.com/news/local-news/ribbon-cut-on-rowan-sweeney-playround-in-boardman/</link>
+		
+		<dc:creator><![CDATA[Kyle Wills]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 03:21:04 +0000</pubDate>
+		<category><![CDATA[Local News]]></category>		<category><![CDATA[Boardman News]]></category>
+		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Struthers News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201666</guid>
+
+					<description><![CDATA[The Rowan Sweeney Memorial Playground officially opened at Boardman Township Park following a ribbon-cutting ceremony on Saturday, marking the completion of the project's first phase funded by over $147,000 in donations and a grant.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201666</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/rowan-sweeney-ribbon-cut.jpg?w=900" type="image/jpeg" length="212031" />
+<dcterms:modified>2026-10-18T03:21:05+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Cleveland woman arrested after police chase through Valley</title>
+		<link>https://www.wkbn.com/news/local-news/east-palestine-news/cleveland-woman-arrested-after-police-chase-through-valley/</link>
+		
+		<dc:creator><![CDATA[Jake Carrier]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 12:00:35 +0000</pubDate>
+		<category><![CDATA[East Palestine News]]></category>		
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201168</guid>
+
+					<description><![CDATA[She drove away after they told her about an active arrest warrant out of Youngstown, according to a report.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201168</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/07/Handcuff-and-jail-bars.jpg?w=900" type="image/jpeg" length="72127" />
+<dcterms:modified>2026-10-18T03:23:23+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Diocese sets final Mass for 3 church closures</title>
+		<link>https://www.wkbn.com/news/local-news/diocese-sets-final-mass-for-3-church-closures/</link>
+		
+		<dc:creator><![CDATA[Patty Coller]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 22:20:22 +0000</pubDate>
+		<category><![CDATA[Local News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Lake Milton News]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Youngstown News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201558</guid>
+
+					<description><![CDATA[Final Masses have been set for three churches that are closing within the Catholic Diocese of Youngstown.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201558</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2025/10/catholic-diocese-of-youngstown-1.jpg?w=900" type="image/jpeg" length="267750" />
+<dcterms:modified>2026-10-18T03:23:46+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Private K-9 teams offer detection services in Valley</title>
+		<link>https://www.wkbn.com/news/local-news/canfield-news/private-k-9-teams-offer-detection-services-in-valley/</link>
+		
+		<dc:creator><![CDATA[Lex Radde]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 03:22:34 +0000</pubDate>
+		<category><![CDATA[Canfield News]]></category>		
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201493</guid>
+
+					<description><![CDATA[Private K-9 teams from Enforcer Working Dogs provide narcotic detection services for businesses and private facilities, allowing owners to decide whether to involve law enforcement.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201493</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/k9-services.jpg?w=900" type="image/jpeg" length="130100" />
+<dcterms:modified>2026-10-18T03:22:36+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Local YouTuber goes live for 24 hours to fight cancer</title>
+		<link>https://www.wkbn.com/news/local-news/poland-news/local-youtuber-goes-live-for-24-hours-to-fight-cancer/</link>
+		
+		<dc:creator><![CDATA[Julianna Brock]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 10:47:30 +0000</pubDate>
+		<category><![CDATA[Poland News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201143</guid>
+
+					<description><![CDATA[Kicking off Saturday morning, the Poland man and five others across the country will be building parts for a model car from scratch to fundraise.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201143</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/mark-eisenbraun-grandpamarks-hobbies-youtube-model-cars-poland-ohio.jpg?w=900" type="image/jpeg" length="384704" />
+<dcterms:modified>2026-10-17T17:19:32+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>No. 6 YSU wins fourth straight in homecoming rout</title>
+		<link>https://www.wkbn.com/sports/no-6-ysu-wins-fourth-straight-in-homecoming-rout/</link>
+		
+		<dc:creator><![CDATA[Zach Verdea]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 01:37:16 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Beau Brungard]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[New Middletown News]]></category>
+		<category><![CDATA[Niles News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201688</guid>
+
+					<description><![CDATA[The Penguins jumped right on top after Donald Barksdale returned the opening kickoff 93 yards for a touchdown.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201688</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/YSU-FOOTBALL.jpg?w=900" type="image/jpeg" length="473085" />
+<dcterms:modified>2026-10-18T01:37:17+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>East Palestine residents sue settlement lawyers, Erin Brockovich group</title>
+		<link>https://www.wkbn.com/news/local-news/east-palestine-news/east-palestine-residents-sue-settlement-lawyers-erin-brockovich-group/</link>
+		
+		<dc:creator><![CDATA[Rich McHugh]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 20:51:17 +0000</pubDate>
+		<category><![CDATA[East Palestine News]]></category>		
+		<category><![CDATA[East Palestine Train Derailment]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201496</guid>
+
+					<description><![CDATA["The attorneys who were involved in this case defrauded at worst, and at best, were negligent," said Mindy Bish,]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201496</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/69227306f352d8.45111177.jpeg?w=900" type="image/jpeg" length="2233501" />
+<dcterms:modified>2026-10-17T22:34:16+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Youngstown Orthopaedic Associates to join Cleveland Clinic</title>
+		<link>https://www.wkbn.com/news/local-news/youngstown-news/youngstown-orthopaedic-to-join-cleveland-clinic/</link>
+		
+		<dc:creator><![CDATA[Brianna Phillips]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 21:02:35 +0000</pubDate>
+		<category><![CDATA[Youngstown News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200483</guid>
+
+					<description><![CDATA[Two announcements released Friday are showing the future of Youngstown Orthopaedic Associates.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200483</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/06/FC67528EAA639261971F5D8F5F38506C.jpg?w=800" type="image/jpeg" length="111768" />
+<dcterms:modified>2026-10-17T11:17:31+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Pedestrian struck in hit-skip Monday dies; police have vehicle, person of interest</title>
+		<link>https://www.wkbn.com/news/local-news/austintown-news/austintown-police-looking-for-vehicle-after-hitting-pedestrian/</link>
+		
+		<dc:creator><![CDATA[Brianna Phillips]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 03:56:10 +0000</pubDate>
+		<category><![CDATA[Austintown News]]></category>		
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3194469</guid>
+
+					<description><![CDATA[In Friday's release, APD says they've located the suspect vehicle and now have a person of interest, who they say was the person driving it. The vehicle is still being examined for "evidentiary purposes."]]></description>
+		
+		
+		
+		      <dc:creator><![CDATA[Kasey Sheridan]]></dc:creator>
+      <dc:creator><![CDATA[Chelsea Simeon]]></dc:creator>
+<post-id xmlns="com-wordpress:feed-additions:1">3194469</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/austintown-hit-and-run-memorial.jpg?w=900" type="image/jpeg" length="585992" />
+<dcterms:modified>2026-10-16T19:06:54+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Fall and Halloween events 2026</title>
+		<link>https://www.wkbn.com/community/halloween-and-fall-events/</link>
+		
+		<dc:creator><![CDATA[Sarah DeLisio]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 14:00:00 +0000</pubDate>
+		<category><![CDATA[Community]]></category>		<category><![CDATA[Austintown News]]></category>
+		<category><![CDATA[Boardman News]]></category>
+		<category><![CDATA[Canfield News]]></category>
+		<category><![CDATA[Columbiana News]]></category>
+		
+		<category><![CDATA[Cortland News]]></category>
+		<category><![CDATA[Girard News]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Hartford Twp News]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Hubbard News]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Liberty News]]></category>
+		<category><![CDATA[Lisbon News]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[Lordstown News]]></category>
+		<category><![CDATA[Mercer News]]></category>
+		<category><![CDATA[New Castle News]]></category>
+		<category><![CDATA[New Springfield News]]></category>
+		<category><![CDATA[New Wilmington News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Newton Falls News]]></category>
+		<category><![CDATA[Pulaski News]]></category>
+		<category><![CDATA[Salem News]]></category>
+		<category><![CDATA[Shenango Township (Lawrence County) News]]></category>
+		<category><![CDATA[Warren News]]></category>
+		<category><![CDATA[Youngstown News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[It's finally fall in the Valley! Spend the season visiting pumpkin patches and apple orchards, and doing all the spooky things!]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">913508</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/09/pumpkins-at-a-pumpkin-patch-fall-festival.jpg?w=900" type="image/jpeg" length="172401" />
+<dcterms:modified>2026-10-17T18:08:31+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Local school districts respond to EDChoice program</title>
+		<link>https://www.wkbn.com/news/local-news/youngstown-news/local-school-districts-respond-to-edchoice-program/</link>
+		
+		<dc:creator><![CDATA[Sydney Brown]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 22:53:36 +0000</pubDate>
+		<category><![CDATA[Youngstown News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200567</guid>
+
+					<description><![CDATA[Ohio school vouchers are a years-long debate. They expanded access to where Ohio students can go to school, but now courts are calling it into question. ]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200567</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/edchoice-consitiution.jpeg?w=900" type="image/jpeg" length="134792" />
+<dcterms:modified>2026-10-16T22:53:38+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>High School Football Scores</title>
+		<link>https://www.wkbn.com/sports/scores/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 22:59:20 +0000</pubDate>
+				<category><![CDATA[Sports]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Get score updates all season long.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">32850</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2021/06/football-and-football-field-1.jpg?w=900" type="image/jpeg" length="271683" />
+<dcterms:modified>2026-10-16T22:59:22+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Is our 1st freeze late this year?</title>
+		<link>https://www.wkbn.com/weather/is-our-1st-freeze-late-this-year/</link>
+		
+		<dc:creator><![CDATA[Paul Wetzl]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 23:26:36 +0000</pubDate>
+		<category><![CDATA[Youngstown Weather]]></category>		<category><![CDATA[App News]]></category>
+		<category><![CDATA[Home]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200674</guid>
+
+					<description><![CDATA[Freeze Alerts are up for a big part of the region this weekend. Find out if it is late to get our first freeze of the year.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200674</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/09/fall-frost-1.jpeg?w=900" type="image/jpeg" length="302978" />
+<dcterms:modified>2026-10-16T23:26:39+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Local college football program makes coaching change</title>
+		<link>https://www.wkbn.com/sports/local-college-football-program-makes-coaching-change/</link>
+		
+		<dc:creator><![CDATA[Chad Krispinsky]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 19:59:17 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Greenville News]]></category>
+		<category><![CDATA[Home]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200378</guid>
+
+					<description><![CDATA[It is the program's first-ever midseason head coaching change.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200378</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2022/10/thiel-football-logo.jpg?w=900" type="image/jpeg" length="62770" />
+<dcterms:modified>2026-10-16T19:59:18+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Bristolville hosts rededication of historic Civil War monument</title>
+		<link>https://www.wkbn.com/news/bristolville-hosts-rededication-of-historic-civil-war-monument/</link>
+		
+		<dc:creator><![CDATA[Austin Caroline]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 21:07:35 +0000</pubDate>
+				<category><![CDATA[Bristolville News]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201507</guid>
+
+					<description><![CDATA[The Trumbull County Historical Society and Bristolville Township Historical Society held a special Civil War Monument Rededication ceremony Saturday morning.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201507</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/bristolville-monument.jpg?w=900" type="image/jpeg" length="289734" />
+<dcterms:modified>2026-10-18T00:59:42+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Is your job a pain in the neck? Tips to prevent the ache</title>
+		<link>https://www.wkbn.com/news/local-news/is-your-job-a-pain-in-the-neck-tips-to-prevent-the-ache/</link>
+		
+		<dc:creator><![CDATA[Austin Caroline]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 18:29:00 +0000</pubDate>
+		<category><![CDATA[Local News]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ohio News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201422</guid>
+
+					<description><![CDATA[If you're achy at the end of the workday, poor ergonomics could be to blame.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201422</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/neck-pain-office-work-generic.jpg?w=900" type="image/jpeg" length="295960" />
+<dcterms:modified>2026-10-17T18:29:02+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Embattled White House press secretary Katie Zacharia is leaving the job after less than a week</title>
+		<link>https://www.wkbn.com/news/national-world/ap-trump-casts-doubt-on-press-secretary-zacharias-future/</link>
+		
+		<dc:creator><![CDATA[WILL WEISSERT, SEUNG MIN KIM and MICHELLE L. PRICE, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:01:32 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[WASHINGTON (AP) — Katie Zacharia is departing as White House press secretary, saying it “was an honor to work for” President Donald Trump after a short and rocky tenure that was defined by questions about her professional background and lack of polish in fielding questions from journalists. A person familiar with the matter, granted anonymity [...]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200138</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad2d747908f76.54947308.jpeg?w=900" type="image/jpeg" length="10150518" />
+<dcterms:modified>2026-10-17T09:09:34+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>YSU celebrates 25 years of its mineral museum</title>
+		<link>https://www.wkbn.com/news/ysu-celebrates-25-years-of-its-mineral-museum/</link>
+		
+		<dc:creator><![CDATA[Austin Caroline]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 19:39:21 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Youngstown News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201446</guid>
+
+					<description><![CDATA[Homecoming is underway at Youngstown State University, and this year's theme is "It Rocks." So, what better time to celebrate the anniversary of the university's mineral museum?]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201446</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/mineral-musem.jpg?w=900" type="image/jpeg" length="164538" />
+<dcterms:modified>2026-10-18T03:31:27+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>YSU Homecoming events continue</title>
+		<link>https://www.wkbn.com/news/local-news/youngstown-news/ysu-homecoming-events-continue/</link>
+		
+		<dc:creator><![CDATA[Caitlynn Hall]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 10:49:58 +0000</pubDate>
+		<category><![CDATA[Youngstown News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3199548</guid>
+
+					<description><![CDATA[Youngstown State will continue its homecoming festivities with rock painting in the main lobby of Maag Library.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3199548</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/ysu-mural-beegly.jpeg?w=900" type="image/jpeg" length="151977" />
+<dcterms:modified>2026-10-18T03:20:37+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Rays capitalize on Guardians errors, win 7-3 to tie ALCS at 2-2</title>
+		<link>https://www.wkbn.com/sports/rays-capitalize-on-guardians-errors-win-7-3-to-tie-alcs-at-2-2/</link>
+		
+		<dc:creator><![CDATA[Zach Verdea]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 04:28:04 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Home]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201775</guid>
+
+					<description><![CDATA[Game 5 of the best-of-seven matchup is Sunday in Cleveland before the series shifts back to St. Petersburg, Florida, on Monday. ]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201775</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/AP26291083088245.jpg?w=900" type="image/jpeg" length="308248" />
+<dcterms:modified>2026-10-18T04:28:06+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Diplomats attacked in the occupied West Bank, and other Middle East developments</title>
+		<link>https://www.wkbn.com/news/national-world/ap-airstrike-kills-3-children-in-yemen-and-other-middle-east-developments/</link>
+		
+		<dc:creator><![CDATA[The Associated Press]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 04:08:32 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Israeli police say they are investigating an attack on diplomats in the occupied West Bank. Meanwhile, an airstrike in Yemen killed three children and wounded others. Iranian-backed Houthi rebels blamed Saudi Arabia for the attack. Here is the latest news from the Middle East on Saturday. Read our full coverage here. Israeli police probe attack [...]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201113</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad4473ad85ae6.61171684.jpeg?w=900" type="image/jpeg" length="2608762" />
+<dcterms:modified>2026-10-18T04:12:43+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Vehicle drives through soccer field during game in Kansas, killing 2 and injuring more</title>
+		<link>https://www.wkbn.com/news/national-world/vehicle-drives-through-soccer-field-during-game-in-kansas-killing-2-and-injuring-more/</link>
+		
+		<dc:creator><![CDATA[The Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 23:45:11 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Nexstar Media Wire]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201627</guid>
+
+					<description><![CDATA[One child and one adult were killed, Wichita police reported, without disclosing their ages.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201627</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/Stryker-sports-complex-e1792280161514.jpg?w=900" type="image/jpeg" length="122954" />
+<dcterms:modified>2026-10-17T23:46:05+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Empowering women: Youngstown NCNW hits 50-year milestone</title>
+		<link>https://www.wkbn.com/news/empowering-women-youngstown-ncnw-hits-50-year-milestone/</link>
+		
+		<dc:creator><![CDATA[Lex Radde]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 22:42:54 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Youngstown News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201549</guid>
+
+					<description><![CDATA[The Youngstown section of the National Council of Negro Women is celebrating 50 years of service focused on empowering women through education, voter registration, and social justice.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201549</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/ncnw-50-years.jpg?w=900" type="image/jpeg" length="85935" />
+<dcterms:modified>2026-10-18T03:36:24+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Runners get ready for Peace Race, with new start</title>
+		<link>https://www.wkbn.com/news/local-news/youngstown-news/runners-get-ready-for-peace-race-with-new-start/</link>
+		
+		<dc:creator><![CDATA[Lex Radde]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 21:52:39 +0000</pubDate>
+		<category><![CDATA[Youngstown News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Local News]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201536</guid>
+
+					<description><![CDATA[Runners are getting ready for the 52nd annual Youngstown Peace Race. The Youngstown Peace Race returns Sunday, with organizers expecting more than 1,000 runners ]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201536</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/peac-e-race.jpg?w=900" type="image/jpeg" length="209387" />
+<dcterms:modified>2026-10-18T03:22:03+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Two Ohio airman killed in World War II laid to rest this month</title>
+		<link>https://www.wkbn.com/news/ohio/two-ohio-airman-killed-in-world-war-ii-laid-to-rest-this-month/</link>
+		
+		<dc:creator><![CDATA[Katie Millard]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 19:40:37 +0000</pubDate>
+		<category><![CDATA[Ohio News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201436</guid>
+
+					<description><![CDATA[Two Ohio Air Force servicemembers were laid to rest this month, decades after they were killed in service during World War II.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201436</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/AP20128045211987-e1734385914158.jpg?w=800" type="image/jpeg" length="70984" />
+<dcterms:modified>2026-10-17T19:40:38+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Roller coaster shut down at Cedar Point after part &#039;dislodged&#039; from ride</title>
+		<link>https://www.wkbn.com/news/ohio/roller-coaster-shut-down-at-cedar-point-after-part-dislodged-from-ride/</link>
+		
+		<dc:creator><![CDATA[Laura Morrison]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 19:40:07 +0000</pubDate>
+		<category><![CDATA[Ohio News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201448</guid>
+
+					<description><![CDATA[A roller coaster was shut down at Cedar Point Friday after a part fell off of a ride, the park confirmed to FOX 8.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201448</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/AP02042904105.jpg?w=900" type="image/jpeg" length="371713" />
+<dcterms:modified>2026-10-17T19:40:07+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>A fire guts a Bangladeshi beach resort, killing 10 people</title>
+		<link>https://www.wkbn.com/news/national-world/ap-a-fire-guts-a-bangladeshi-beach-resort-killing-10-people/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 14:27:21 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[DHAKA, Bangladesh (AP) — A fire gutted a beach resort in southeastern Bangladesh on Saturday, killing 10 people and injuring four, an official said. The fire broke out at Tuptup Resto and Resort at Inani in Cox’s Bazar district, a popular destination for domestic tourists, Syed Mohammad Morshed Hossain, deputy assistant director of Fire Service [...]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201178</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad363e93af5b1.36230354.jpeg?w=900" type="image/jpeg" length="7011542" />
+<dcterms:modified>2026-10-17T14:32:58+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Pope Leo XIV’s lung cancer highlights growing number of nonsmokers diagnosed with the disease – and younger people too</title>
+		<link>https://www.wkbn.com/news/national-world/pope-leo-xivs-lung-cancer-highlights-growing-number-of-nonsmokers-diagnosed-with-the-disease-and-younger-people-too/</link>
+		
+		<dc:creator><![CDATA[Estelamari Rodriguez Associate Director of Community Outreach in Thoracic Oncology, University of Miami and The Conversation]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 14:13:00 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201243</guid>
+
+					<description><![CDATA[When many people think of an average lung cancer patient, they often imagine an older man smoking. But the face of lung cancer has changed.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201243</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/Pope-Leo-1-e1791994878268_53d2a3.jpg?w=900" type="image/jpeg" length="82591" />
+<dcterms:modified>2026-10-17T14:13:02+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>No. 4 Ohio State holds on for 19-15 nail-biting win over No. 5 Indiana</title>
+		<link>https://www.wkbn.com/sports/live-updates-no-4-ohio-state-visits-no-5-indiana-in-bloomington/</link>
+		
+		<dc:creator><![CDATA[David DeGuzman]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 13:57:58 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Home]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201223</guid>
+
+					<description><![CDATA[BLOOMINGTON, Ind. (WCMH) -- Over 54,000 fans witnessed an instant classic during Saturday’s matchup between the last two national champions of college football. No. 4 Ohio State defeated No. 5 Indiana 19-15 after Jeremiah Smith caught a 38-yard touchdown under double coverage in the endzone, handing Curt Cignetti his first loss at home since taking [...]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201223</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/GettyImages-2300682512.jpg?w=900" type="image/jpeg" length="4721842" />
+<dcterms:modified>2026-10-17T23:38:36+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Trader Joe&#039;s to open more than 30 new stores &#039;soon&#039;: Here&#039;s where</title>
+		<link>https://www.wkbn.com/news/national-world/trader-joes-to-open-more-than-30-new-stores-soon-heres-where/</link>
+		
+		<dc:creator><![CDATA[Addy Bink]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 13:21:39 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ohio News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201207</guid>
+
+					<description><![CDATA[America's "favorite grocer" is growing.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201207</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/TraderJoesGettyImages-626536634-e1749828122557_eb7dcb.jpg?w=800" type="image/jpeg" length="85243" />
+<dcterms:modified>2026-10-17T13:21:41+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold</title>
+		<link>https://www.wkbn.com/news/national-world/ap-zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-places-package-on-hold/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 12:41:11 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[The White House decision has further raised fears that Ukraine could be left exposed to Moscow’s escalating assaults with winter approaching.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201138</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad36d462aca10.80485123.jpeg?w=900" type="image/jpeg" length="3058975" />
+<dcterms:modified>2026-10-17T12:53:06+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Pope Leo to be released from the hospital Saturday</title>
+		<link>https://www.wkbn.com/news/national-world/pope-leo-to-be-released-from-the-hospital-saturday/</link>
+		
+		<dc:creator><![CDATA[The Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 12:19:31 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201164</guid>
+
+					<description><![CDATA[He is being released four days after lung cancer surgery and will deliver the traditional noon blessing Sunday.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201164</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/Pope-Leo-1-e1791994878268.jpg?w=900" type="image/jpeg" length="82591" />
+<dcterms:modified>2026-10-17T12:19:34+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Retail price impacts from the Iran war are uneven but add up for US households before midterms</title>
+		<link>https://www.wkbn.com/news/national-world/ap-retail-price-impacts-from-the-iran-war-are-uneven-but-add-up-for-us-households-before-midterms/</link>
+		
+		<dc:creator><![CDATA[CATHY BUSSEWITZ, WYATTE GRANTHAM-PHILIPS, RIO YAMAT, DEE-ANN DURBIN, ANNE D’INNOCENZIO and MAE ANDERSON, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 07:24:35 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Economists estimate that the war has cost the average U.S. household the equivalent of almost $2,000.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201105</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad3237e560469.85322837.jpeg?w=900" type="image/jpeg" length="8498363" />
+<dcterms:modified>2026-10-17T10:02:12+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>An American pope brings American-style governance to the Vatican, even in a health crisis</title>
+		<link>https://www.wkbn.com/news/national-world/ap-an-american-pope-brings-american-style-governance-to-the-vatican-even-in-a-health-crisis/</link>
+		
+		<dc:creator><![CDATA[NICOLE WINFIELD, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 07:03:06 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Not only did he announce himself that he had a lung nodule that required surgery, but Leo's doctors have been providing the medical updates for his recovery, not the Vatican.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201085</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad31ec3a95a65.38807851.jpeg?w=900" type="image/jpeg" length="3316486" />
+<dcterms:modified>2026-10-17T09:52:39+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Coastal homes burn as hot winds fuel California fires</title>
+		<link>https://www.wkbn.com/news/national-world/ap-hot-windy-weather-stoke-brush-fires-spark-in-southern-california-power-turned-off-for-many/</link>
+		
+		<dc:creator><![CDATA[AMY TAXIN and OLGA R. RODRIGUEZ, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 05:36:39 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[A fast-moving fire fueled by high winds burned at least six homes in Southern California, engulfing expensive coastal properties and prompting evacuations.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3199601</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad309e3c40ca9.69681531.jpeg?w=900" type="image/jpeg" length="2800535" />
+<dcterms:modified>2026-10-17T09:40:01+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>US Coast Guard rescues 16 people and searches for more after mayday call off Mexico&#039;s Baja coast</title>
+		<link>https://www.wkbn.com/news/national-world/ap-us-coast-guard-says-it-has-rescued-at-least-16-from-the-water-off-mexicos-baja-coast/</link>
+		
+		<dc:creator><![CDATA[JULIE WATSON, GABRIELA AOUN ANGUEIRA and MATTHEW BROWN, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 05:01:27 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[It went down in an area frequented by smugglers transporting migrants to the U.S. It's also popular with fishing and leisure boats.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3199981</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad301b48ef533.12631301.jpeg?w=900" type="image/jpeg" length="7873385" />
+<dcterms:modified>2026-10-17T09:33:53+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>How a driver, a dad and a teacher tried to stop the Oregon school shooter</title>
+		<link>https://www.wkbn.com/news/national-world/ap-how-a-driver-a-dad-and-a-teacher-tried-to-stop-the-oregon-school-shooter/</link>
+		
+		<dc:creator><![CDATA[SAFIYAH RIDDLE and GENE JOHNSON, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 04:00:06 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[The entire series of events spanned just a few minutes.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201091</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad2f4bc9c02f9.19724866.jpeg?w=900" type="image/jpeg" length="3530074" />
+<dcterms:modified>2026-10-17T10:28:39+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Hurricane Trudy strengthens slightly as it moves toward Mexico’s Pacific coast</title>
+		<link>https://www.wkbn.com/news/national-world/ap-hurricane-trudy-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:56:58 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[The storm was a Category 1 hurricane with maximum sustained winds of 90 mph on Friday night.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3199495</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad2f368214708.76152559.jpeg?w=736" type="image/jpeg" length="1327428" />
+<dcterms:modified>2026-10-17T09:22:16+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Former Columbus police officer killed in Florida helicopter crash</title>
+		<link>https://www.wkbn.com/news/ohio/former-columbus-police-officer-killed-in-florida-helicopter-crash/</link>
+		
+		<dc:creator><![CDATA[Kevin Accettulla]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:36:11 +0000</pubDate>
+		<category><![CDATA[Ohio News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201057</guid>
+
+					<description><![CDATA[A former Columbus police officer was killed Thursday night in a helicopter crash in Florida.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201057</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/Relic-Reef-WFLA-Report-It-1.png?w=900" type="image/png" length="167431" />
+<dcterms:modified>2026-10-17T03:36:13+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Ohio handed win in prediction market lawsuit, but Kalshi files for rehearing</title>
+		<link>https://www.wkbn.com/news/ohio/ohio-handed-win-in-prediction-market-lawsuit-but-kalshi-files-for-rehearing/</link>
+		
+		<dc:creator><![CDATA[Jesse Bethea]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:35:44 +0000</pubDate>
+		<category><![CDATA[Ohio News]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3201059</guid>
+
+					<description><![CDATA[Attorneys for the state scored a win late last month as Ohio attempts to regulate prediction markets such as Kalshi.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3201059</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6a2cbc93418434.49911044.jpeg?w=900" type="image/jpeg" length="8994411" />
+<dcterms:modified>2026-10-17T03:35:46+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest</title>
+		<link>https://www.wkbn.com/news/national-world/ap-trump-puts-new-russia-sanctions-passed-by-congress-on-hold-saying-waiver-is-in-us-national-interest/</link>
+		
+		<dc:creator><![CDATA[WILL WEISSERT and MEG KINNARD, Associated Press]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:18:11 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[WASHINGTON (AP) — President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the national interest. Trump personally signed the legislation just last month and his move came just two days before a deadline set in the [...]]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200927</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/6ad2ea0b5ce842.48397374.jpeg?w=900" type="image/jpeg" length="8983336" />
+<dcterms:modified>2026-10-17T03:22:53+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Highlights: Massillon vs. Warren Harding high school football</title>
+		<link>https://www.wkbn.com/sports/highlights-massillon-vs-warren-harding-high-school-football/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:13:49 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[Warren News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200669</guid>
+
+					<description><![CDATA[Warren Harding (4-5) will visit Austintown Fitch in week ten.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200669</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/HARDING.jpg?w=900" type="image/jpeg" length="386216" />
+<dcterms:modified>2026-10-17T03:13:57+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Zacharia speaks out after White House press secretary exit: &#039;It was an honor&#039;</title>
+		<link>https://www.wkbn.com/news/national-world/zacharia-speaks-out-after-white-house-press-secretary-exit-it-was-an-honor/</link>
+		
+		<dc:creator><![CDATA[Sarah Davis]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:04:23 +0000</pubDate>
+		<category><![CDATA[National and World]]></category>		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200994</guid>
+
+					<description><![CDATA[Her departure followed a wave of scrutiny over a shaky debut press conference, which lasted 14 minutes and included only three questions from conservative-leaning outlets, as well as skepticism over her legal background. ]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200994</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/AP26286519686780-e1792204948201.jpg?w=900" type="image/jpeg" length="95908" />
+<dcterms:modified>2026-10-17T03:04:24+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Highlights: Hubbard vs. Girard high school football</title>
+		<link>https://www.wkbn.com/sports/highlights-hubbard-vs-girard-high-school-football/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 03:03:18 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Girard News]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Hubbard News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200665</guid>
+
+					<description><![CDATA[Hubbard (5-3) will host South Range in week ten. Girard (8-0) will play host to Niles.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200665</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/GIRARD_f4bff0.jpg?w=900" type="image/jpeg" length="336069" />
+<dcterms:modified>2026-10-17T03:03:20+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Highlights: Western Reserve vs. Mineral Ridge high school football</title>
+		<link>https://www.wkbn.com/sports/highlights-western-reserve-vs-mineral-ridge-high-school-football/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:59:45 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Berlin Center News]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Mineral Ridge News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200661</guid>
+
+					<description><![CDATA[Western Reserve (2-7) will host Jackson-Milton in week ten. Mineral Ridge (9-0) will visit McDonald.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200661</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/RIDGE.jpg?w=900" type="image/jpeg" length="341782" />
+<dcterms:modified>2026-10-17T02:59:47+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Player of the Game: Austintown Fitch&#039;s Deon&#039;Dray Richard</title>
+		<link>https://www.wkbn.com/sports/game-of-the-week/player-of-the-game-austintown-fitchs-deondray-richard-2/</link>
+		
+		<dc:creator><![CDATA[Chad Krispinsky]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:59:21 +0000</pubDate>
+		<category><![CDATA[Game of the Week]]></category>		<category><![CDATA[Austintown News]]></category>
+		
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Sports]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200419</guid>
+
+					<description><![CDATA[Austintown Fitch senior running back Deon'Dray Richard was named Player of the Game for his efforts in the Falcons' 42-7 win over Boardman]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200419</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/POG-RICHARD.jpg?w=900" type="image/jpeg" length="325730" />
+<dcterms:modified>2026-10-17T02:59:22+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Highlights: Conneaut vs. Hickory high school football</title>
+		<link>https://www.wkbn.com/sports/highlights-conneaut-vs-hickory-high-school-football/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:56:11 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Hermitage News]]></category>
+		<category><![CDATA[Home]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200577</guid>
+
+					<description><![CDATA[Hickory (7-1) will host Slippery Rock next week.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200577</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/HSFB-HICKORYU.jpg?w=900" type="image/jpeg" length="115959" />
+<dcterms:modified>2026-10-17T02:56:12+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Lisbon secures second straight shutout</title>
+		<link>https://www.wkbn.com/sports/lisbon-secures-second-straight-shutout/</link>
+		
+		<dc:creator><![CDATA[Vince Pellegrini]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:55:25 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Lisbon News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200991</guid>
+
+					<description><![CDATA[Lisbon wins their fourth consecutive game; setting up a huge week ten matchup with Columbiana.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200991</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2021/06/lisbon-blue-devils-high-school-football.jpg?w=900" type="image/jpeg" length="172752" />
+<dcterms:modified>2026-10-17T02:55:26+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Highlights: McDonald vs. Springfield high school football</title>
+		<link>https://www.wkbn.com/sports/highlights-mcdonald-vs-springfield-high-school-football/</link>
+		
+		<dc:creator><![CDATA[Justin Shilot]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:54:49 +0000</pubDate>
+		<category><![CDATA[Sports]]></category>		<category><![CDATA[Home]]></category>
+		<category><![CDATA[McDonald News]]></category>
+		<category><![CDATA[New Middletown News]]></category>
+		
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200673</guid>
+
+					<description><![CDATA[McDonald (9-0) will host Mineral Ridge in week ten. Springfield (5-3) will host Lowellville.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200673</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/SPRINGFIELD.jpg?w=900" type="image/jpeg" length="377454" />
+<dcterms:modified>2026-10-17T02:54:51+00:00</dcterms:modified>
+	</item>
+		<item>
+		<title>Two local hospitals receiving nearly $1.4M in rural health grants</title>
+		<link>https://www.wkbn.com/news/local-news/two-local-hospitals-receiving-nearly-1-4m-in-rural-health-grants/</link>
+		
+		<dc:creator><![CDATA[Katelyn Amato]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 02:47:00 +0000</pubDate>
+		<category><![CDATA[Local News]]></category>		<category><![CDATA[East Liverpool News]]></category>
+		<category><![CDATA[Home]]></category>
+		
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Salem News]]></category>
+		<guid isPermaLink="false">https://www.wkbn.com/?p=3200984</guid>
+
+					<description><![CDATA[Gov. Mike DeWine today announced $92 million dollars in rural health grants across Ohio.]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3200984</post-id><enclosure url="https://www.wkbn.com/wp-content/uploads/sites/48/2022/07/columbiana-county-money-background.jpg?w=900" type="image/jpeg" length="196636" />
+<dcterms:modified>2026-10-17T02:47:01+00:00</dcterms:modified>
+	</item>
+	</channel>
+</rss>

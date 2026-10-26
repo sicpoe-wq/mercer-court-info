@@ -1,0 +1,9 @@
+build/
+.gradle/
+local.properties
+tools/
+*.apk
+.idea/
+*.iml
+app/src/test/resources/jail*.html
+app/src/test/resources/daily.txt
