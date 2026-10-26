@@ -18,6 +18,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
+import android.content.ClipData
+import android.content.ClipboardManager
+import android.widget.Toast
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
@@ -80,10 +83,72 @@ fun NewBadge() {
 }
 
 @Composable
+fun StatusLabel(s: Status) {
+    Surface(color = Color(s.color), shape = RoundedCornerShape(4.dp)) {
+        Text(s.label, color = Color.White, style = MaterialTheme.typography.labelSmall, fontWeight = FontWeight.Bold,
+            modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp))
+    }
+}
+
+@Composable
+fun StatusLegend(close: () -> Unit) {
+    AlertDialog(onDismissRequest = close, title = { Text("What the labels mean") },
+        text = {
+            Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                Status.values().forEach { s ->
+                    Column { StatusLabel(s); Text(s.explain, style = MaterialTheme.typography.bodySmall) }
+                }
+                Text("Labels come only from the jail's \"Admission Type\" column. Sentenced = convicted and serving a sentence; " +
+                    "the roster does not show the offense, and someone sentenced may also have other pending cases. " +
+                    "Use \"Look up dockets\" to check the official court record yourself.", style = MaterialTheme.typography.bodySmall)
+            }
+        },
+        confirmButton = { TextButton(onClick = close) { Text("OK") } })
+}
+
+fun copyText(c: Context, label: String, text: String) {
+    (c.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager).setPrimaryClip(ClipData.newPlainText(label, text))
+    Toast.makeText(c, "Copied \"$text\"", Toast.LENGTH_SHORT).show()
+}
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun DocketSheet(p: Inmate, close: () -> Unit) {
+    val c = LocalContext.current
+    val (last, first) = remember(p) { splitRosterName(p.name) }
+    val q = remember(p) { ujsQuery(p.name) }
+    ModalBottomSheet(onDismissRequest = close) {
+        Column(Modifier.fillMaxWidth().padding(16.dp, 0.dp, 16.dp, 24.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text(p.name, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                StatusLabel(Status.of(p)); Spacer(Modifier.width(8.dp))
+                Text(if (p.section == "Transfers") "${p.commit} ${p.admission}".trim() else "Committed ${p.commit}",
+                    style = MaterialTheme.typography.bodySmall)
+            }
+            Button(onClick = { copyText(c, "Name", q); open(c, Urls.UJS); close() }, modifier = Modifier.fillMaxWidth()) {
+                Icon(Icons.Default.ManageSearch, null); Spacer(Modifier.width(8.dp)); Text("Look up dockets (copies \"$q\")")
+            }
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                OutlinedButton(onClick = { copyText(c, "Last name", last) }) { Text("Copy last: $last") }
+                if (first.isNotEmpty()) OutlinedButton(onClick = { copyText(c, "First name", first) }) { Text("Copy first: $first") }
+            }
+            Text("Opens the PA courts (UJS) portal in your browser. Choose Search By \"Participant Name\", paste or type the name, " +
+                "and set County to Mercer. The app does not search the portal for you.", style = MaterialTheme.typography.bodySmall)
+            Text("Same-name matches are possible: different people can share a name. Confirm with date of birth or other details " +
+                "in the docket before assuming a record belongs to this person.", style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.error)
+        }
+    }
+}
+
+@Composable
 fun JailTab() {
     val c = LocalContext.current
     var q by remember { mutableStateOf("") }
     var sec by remember { mutableStateOf("All") }
+    var stat by remember { mutableStateOf<Status?>(null) }
+    var legend by remember { mutableStateOf(false) }
+    var sheet by remember { mutableStateOf<Inmate?>(null) }
     LaunchedEffect(Unit) { withContext(Dispatchers.IO) { JailState.load(c) } }
     val fmt = remember { DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT) }
     val now = System.currentTimeMillis()
@@ -102,6 +167,16 @@ fun JailTab() {
             }
             FilterChip(selected = sec == "Left", onClick = { sec = if (sec == "Left") "All" else "Left" },
                 label = { Text("Left roster (${gone.size})") })
+        }
+        val counts = jailLoader.items.groupingBy { Status.of(it) }.eachCount()
+        Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 12.dp), horizontalArrangement = Arrangement.spacedBy(8.dp),
+            verticalAlignment = Alignment.CenterVertically) {
+            Status.values().forEach { s ->
+                FilterChip(selected = stat == s, onClick = { stat = if (stat == s) null else s },
+                    label = { Text("${s.label} (${counts[s] ?: 0})") },
+                    leadingIcon = { Box(Modifier.size(10.dp).background(Color(s.color), RoundedCornerShape(5.dp))) })
+            }
+            IconButton(onClick = { legend = true }) { Icon(Icons.Default.Info, "What the labels mean") }
         }
     }) { all ->
         if (sec == "Left") {
@@ -122,10 +197,13 @@ fun JailTab() {
             return@Refreshable
         }
         val list = all.filter {
-            (sec == "All" || (sec == "New" && JailTracker.isNew(st, it, now)) || it.section == sec) && it.name.contains(q.trim(), true)
+            (sec == "All" || (sec == "New" && JailTracker.isNew(st, it, now)) || it.section == sec) && it.name.contains(q.trim(), true) &&
+                (stat == null || Status.of(it) == stat)
         }.sortedByDescending { JailTracker.isNew(st, it, now) }
         Text("${list.size} of ${all.size} shown · $newCount new in last 48h · Mercer County Jail population report",
             style = MaterialTheme.typography.labelMedium, modifier = Modifier.padding(12.dp, 4.dp))
+        Text("Labels come from the jail's admission type. Sentenced = convicted and serving a sentence; it does not show the offense. Tap ⓘ for details, tap a name to look up dockets.",
+            style = MaterialTheme.typography.labelSmall, modifier = Modifier.padding(horizontal = 12.dp).clickable { legend = true })
         LazyColumn(Modifier.fillMaxSize()) {
             if (all.isNotEmpty() && st.firstSeen.values.all { it == 0L }) item {
                 Text("Tracking started. Anyone who appears on a later refresh gets a NEW badge for 48 hours.",
@@ -133,24 +211,30 @@ fun JailTab() {
             }
             items(list) { p ->
                 val isNew = JailTracker.isNew(st, p, now)
-                Row(Modifier.fillMaxWidth().background(if (isNew) Color(0xFFFFEBEE) else Color.Transparent).padding(12.dp, 6.dp),
+                Row(Modifier.fillMaxWidth().background(if (isNew) Color(0xFFFFEBEE) else Color.Transparent).clickable { sheet = p }.padding(12.dp, 6.dp),
                     verticalAlignment = Alignment.CenterVertically) {
                     if (isNew) { NewBadge(); Spacer(Modifier.width(8.dp)) }
                     Column(Modifier.weight(1f)) {
-                        Text(p.name, fontWeight = FontWeight.Bold)
+                        Row(verticalAlignment = Alignment.CenterVertically) {
+                            Text(p.name, fontWeight = FontWeight.Bold, modifier = Modifier.weight(1f, fill = false))
+                            Spacer(Modifier.width(6.dp)); StatusLabel(Status.of(p))
+                        }
                         Text(if (p.section == "Transfers") "Transfer/furlough · ${p.commit} · ${p.admission}"
                              else "Committed ${p.commit}", style = MaterialTheme.typography.bodySmall)
-                        if (p.section != "Transfers") Text("${p.admission} · Auth: ${p.authority}", style = MaterialTheme.typography.bodySmall)
+                        if (p.section != "Transfers") Text("${p.admission} · Auth: ${p.authority}" + (authorityNote(p.authority)?.let { " ($it)" } ?: ""), style = MaterialTheme.typography.bodySmall)
                         if (isNew) st.firstSeen[JailTracker.key(p)]?.let {
                             Text("First seen by this app ${fmt.format(Date(it))}", style = MaterialTheme.typography.labelSmall, color = Color(0xFFB71C1C))
                         }
                     }
+                    IconButton(onClick = { sheet = p }) { Icon(Icons.Default.ManageSearch, "Look up dockets") }
                 }
                 HorizontalDivider()
             }
             item { TextButton(onClick = {}, enabled = false) { Text("Source: mercercountypa.gov jail report (no charges listed)") } }
         }
     }
+    if (legend) StatusLegend { legend = false }
+    sheet?.let { DocketSheet(it) { sheet = null } }
 }
 
 // ---------------- News ----------------

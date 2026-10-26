@@ -25,7 +25,7 @@ object Urls {
 object Repo {
     private fun conn(url: String): HttpURLConnection = (URL(url).openConnection() as HttpURLConnection).apply {
         connectTimeout = 15000; readTimeout = 30000
-        setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android) MercerCountyCourtInfo/1.1 (personal use)")
+        setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android) MercerCountyCourtInfo/1.2 (personal use)")
         instanceFollowRedirects = true
     }
     fun getText(url: String): String = conn(url).inputStream.use { String(it.readBytes(), Charsets.UTF_8) }

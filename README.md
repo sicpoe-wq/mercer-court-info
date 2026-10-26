@@ -2,7 +2,7 @@
 
 Android app (Jetpack Compose) showing public Mercer County, PA information:
 
-- **Jail** – Mercer County Jail population report, with a NEW badge for people who first appear on the roster (kept 48 hours), a "New only" filter and a "Left roster" list.
+- **Jail** – Mercer County Jail population report, with a NEW badge for people who first appear on the roster (kept 48 hours), a "New only" filter and a "Left roster" list. Each person gets a colored status label from the roster's Admission Type (Sentenced / Awaiting trial / Held for other agency / Other) with filter chips; Sentenced means convicted and serving a sentence, but the roster does not show the offense. Tapping a person opens a "Look up dockets" sheet that copies the name as "LAST, FIRST" and opens the UJS portal in the browser (no automation; same-name matches are possible).
 - **Hearings** – today's Court of Common Pleas daily hearing list (PDF parsed on device).
 - **Dockets** – links to the PA UJS docket search and PA DOC inmate locator (not scraped).
 - **News** – police/arrest and local news from public RSS feeds (WKBN, WYTV, WFMJ, The Vindicator, Tribune Chronicle, YourErie, ButlerRadio.com, plus Google News RSS searches for Sharon Herald, Allied News and "Mercer County" Pennsylvania), filtered by distance from your ZIP using an offline Census 2023 Gazetteer table.
